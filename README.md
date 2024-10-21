@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Ahsan
  
 # 💫 About Me:
-I’m a Software Engineer with a passion for developing innovative solutions and tackling complex problems.<br>🌍 I believe in the power of collaboration and open-source contributions. I enjoy working with others to bring ideas to life and am always looking for opportunities to connect with fellow developers.
+🧑🏻‍💻 I’m a Software Engineer with a passion for developing innovative solutions and tackling complex problems.<br>🌍 I believe in the power of collaboration and open-source contributions. I enjoy working with others to bring ideas to life and am always looking for opportunities to connect with fellow developers.
 
 
 ## 🌐 Socials:
